@@ -1,0 +1,54 @@
+.navbar {
+  background-image: linear-gradient(to left, rgba(0, 0, 0, 0), #403bbe);
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e3d9f2;
+}
+#galeri {
+  background-color: #e3d9f2;
+}
+.btn {
+  color: rgb(255, 255, 255);
+  background-color: #fb00e6;
+  border: none;
+}
+.btn:hover {
+  background-color: #55374d;
+  color: rgb(223, 176, 215);
+}
+a {
+  text-decoration: none;
+  font-variant: small-caps;
+}
+.nav-item a {
+  color: rgb(255, 0, 221);
+}
+section {
+  padding-top: 4rem;
+}
+form {
+  font-variant: small-caps;
+  color: rgb(255, 0, 221);
+}
+h1 {
+  font-variant: small-caps;
+  font-weight: bold;
+  font-style: oblique;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(58, 3, 50);
+}
+h2 {
+  color: rgb(58, 3, 50);
+  font-variant: small-caps;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p {
+  font-variant: small-caps;
+  font-family: cursive;
+  color: rgb(58, 3, 50);
+}
+footer a {
+  color: rgb(255, 0, 221);
+}
